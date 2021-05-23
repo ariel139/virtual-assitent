@@ -7,8 +7,6 @@ from docx import Document
 import geocoder
 import requests
 import json
-import webbrowser
-import spotipy.util as util
 from json.decoder import JSONDecodeError
 
 talking = True
